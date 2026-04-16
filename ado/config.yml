@@ -1,9 +1,13 @@
 # A new Azure Devops project will be created with the following configuration values.
 # You can, but don't have to edit these
-ado_project_name: "GitMigrationTraining"
-ado_repository_name: "fatboytwo"
+ado_project_name: "ADOGHTraining"
+ado_repository_name: "mockgitexercise`"
 
 # Update these values before running the bootstrap script
 
 ado_url: "https://dev.azure.com/MigrationTraining"  # e.g "https://dev.azure.com/your-org"
 
+# GITHUB migration
+
+github_org: "sysdevprosup"
+target_github_repo_name: "mockgitexercise"
